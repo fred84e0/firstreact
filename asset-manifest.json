@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/firstreact/static/css/main.204af61d.chunk.css",
+    "main.css": "/firstreact/static/css/main.925e5d3b.chunk.css",
     "main.js": "/firstreact/static/js/main.1e8eda96.chunk.js",
     "main.js.map": "/firstreact/static/js/main.1e8eda96.chunk.js.map",
     "runtime-main.js": "/firstreact/static/js/runtime-main.60e52730.js",
@@ -8,15 +8,15 @@
     "static/js/2.f1ad875d.chunk.js": "/firstreact/static/js/2.f1ad875d.chunk.js",
     "static/js/2.f1ad875d.chunk.js.map": "/firstreact/static/js/2.f1ad875d.chunk.js.map",
     "index.html": "/firstreact/index.html",
-    "precache-manifest.053b04813f9694fa48f4b0eff6d8a1a9.js": "/firstreact/precache-manifest.053b04813f9694fa48f4b0eff6d8a1a9.js",
+    "precache-manifest.d5650b865aef72d9505f3c6e5ec10848.js": "/firstreact/precache-manifest.d5650b865aef72d9505f3c6e5ec10848.js",
     "service-worker.js": "/firstreact/service-worker.js",
-    "static/css/main.204af61d.chunk.css.map": "/firstreact/static/css/main.204af61d.chunk.css.map",
+    "static/css/main.925e5d3b.chunk.css.map": "/firstreact/static/css/main.925e5d3b.chunk.css.map",
     "static/media/logo.svg": "/firstreact/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.60e52730.js",
     "static/js/2.f1ad875d.chunk.js",
-    "static/css/main.204af61d.chunk.css",
+    "static/css/main.925e5d3b.chunk.css",
     "static/js/main.1e8eda96.chunk.js"
   ]
 }
